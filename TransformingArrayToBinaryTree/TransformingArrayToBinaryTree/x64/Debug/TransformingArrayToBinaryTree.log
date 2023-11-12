@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\TransformingArrayToBinaryTree\TransformingArrayToBinaryTree\main.c(71,10): warning C4013: niezdefiniowany "treeSize"; przy założeniu, że extern zwraca int
+  TransformingArrayToBinaryTree.vcxproj -> C:\Users\48571\source\repos\TransformingArrayToBinaryTree\x64\Debug\TransformingArrayToBinaryTree.exe
